@@ -1,7 +1,7 @@
 package com.example.zhouwenbo.webview;
 
 /**
- * Created by zhouwenbo on 2018/1/20.
+ * Created by bai on 2018/1/20.
  */
 
 import android.app.Activity;
@@ -14,7 +14,6 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.TextView;
 
-import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
